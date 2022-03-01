@@ -23,27 +23,6 @@ $1800 for an open source roadmap and skeleton of a Atala PRISM based solution fo
 
 The funds are to primarily pay others for consultancies, but I am still working on confirming these collaborations. I will update this proposal as I receive information from them. In the very least, the budget provides myself funding to carve out time I can then use to put out various reports and materials based on my past research already completed. I can certainly provide the immigration document need of this project, and also provide what technical roadmaps I can see that I already intend to take unless this phase of research proves my approach incorrect.
 
-Please provide details of your team members required to complete the project.
-Steven Sevic
-
-https://www.linkedin.com/in/stevensevic
-
-Currently in IT support in International Education for the University of Arkansas, and as CTO of International Office Consulting. I both oversee data feeds to and from universities and the Department of Homeland Security in the United States. I have been a CA since Fund 6, and a CA/vCA since Fund 7, in Catalyst, and have been studying blockchain development for a few years.
-
- 
-
- 
-
-Jim St. Clair
-
-https://www.linkedin.com/in/jimstclair
-
-Jim is a 2019 and 2020 FedHealthIT 100 winner, and is also active in the Healthcare Committee for the Government Blockchain Association, and member of the HIMSS Healthcare Blockchain Working Group. He is an advisor to multiple healthcare Blockchain start-ups, and guest lectures on Blockchain and technology at Universities and Industry.
-
-Jim has worked with large and small companies focusing on Agile development and project management, cyber security and healthcare information technology. Prior to that, Jim was Senior Director for Interoperability at HIMSS, a cause-based, not-for-profit organization exclusively focused on providing global leadership for the optimal use of information technology (IT) and management systems for the betterment of healthcare.
-
-Jim is a veteran and former naval officer, having served in both active and reserve capacity.
-
 
 [AUDITABILITY]
 Please describe how you will measure the progress and the development of the project?
