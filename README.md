@@ -1,5 +1,7 @@
 # open-source-immigration-ssi
-Open sourced solutions for immigration document compliance at educational institutions
+Open sourced solutions for immigration document compliance at educational institutions.
+
+
 [IMPACT]
 Please describe your proposed solution.
 The focus at first are immigration advisors at U.S. Universities that would use a homegrown developed system that could grab documents and credentials from a blockchain and decentralized cloud file storage system akin to IPFS, allow these advisors to then confirm the information in a "document check" phase, and then have the life cycle of this data exist for the duration of stay, until their SEVIS (Student and Exchange Visitor Information System used in the U.S. for immigration compliance) program ends, and a grace period thereafter.
